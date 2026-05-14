@@ -1,49 +1,82 @@
-📌 Project Overview
+# 📊 Data Analysis & Statistics Projects
 
-This project focuses on Statistics, Probability, and Data Analysis using Python. It demonstrates practical implementation of statistical concepts, probability distributions, and exploratory data analysis techniques used in real-world data science and machine learning workflows.
+Welcome to my Data Analysis and Statistics Projects repository.  
+This repository contains practical notebooks and projects focused on:
 
-The project includes:
+- Probability Concepts
+- Statistical Analysis
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Python for Data Analysis
 
-Data preprocessing and cleaning
-Statistical analysis
-Probability concepts
-Data visualization
-Correlation analysis
-Distribution analysis
-Insight generation from datasets
+The goal of this repository is to strengthen analytical thinking and build industry-relevant data analysis skills.
 
-This project is highly suitable for Data Analyst, Data Science, and Machine Learning Internship/Job opportunities.
+---
 
-🚀 Technologies & Libraries Used
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
-📊 Key Features
+## 🚀 Technologies & Tools Used
 
-✔ Data Cleaning & Preprocessing
-✔ Descriptive Statistics
-✔ Mean, Median, Mode
-✔ Variance & Standard Deviation
-✔ Percentile & Quartile Analysis
-✔ Probability Basics & Distributions
-✔ Correlation Analysis
-✔ Heatmaps & Visualization
-✔ Distribution Plots
-✔ Exploratory Data Analysis (EDA)
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Statistics
+- Probability
 
-📚 Concepts Covered
-Statistics
-Measures of Central Tendency
-Measures of Dispersion
-Correlation
-Outlier Detection
-Data Distribution
-Probability
-Probability Basics
-Probability Distribution
-Conditional Probability
-Normal Distribution
-Random Variables
+---
+
+## 📂 Project Files
+
+| File Name | Description |
+|------------|-------------|
+| `probability.ipynb` | Probability concepts and problem-solving using Python |
+| `statistics.ipynb` | Statistical analysis, hypothesis testing, and data interpretation |
+
+---
+
+## 📌 Key Learning Areas
+
+### Probability
+- Conditional Probability
+- Bayes Theorem
+- Random Variables
+- Probability Distribution
+- Expected Value
+
+### Statistics
+- Mean, Median, Mode
+- Standard Deviation
+- Variance
+- Correlation
+- Hypothesis Testing
+- P-value Analysis
+
+---
+
+## 📈 Objectives
+
+- Develop strong analytical skills
+- Apply statistics using Python
+- Build a portfolio for Data Analyst roles
+- Improve problem-solving ability using real-world datasets
+
+---
+
+## 💡 Future Improvements
+
+- Add Machine Learning projects
+- SQL Data Analysis projects
+- Power BI dashboards
+- Real-world datasets and case studies
+
+---
+
+
+
+## ⭐ Support
+
+If you found this repository useful, feel free to star the repository and connect with me.
+
+Thank you for visiting!
